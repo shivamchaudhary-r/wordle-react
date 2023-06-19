@@ -8,7 +8,7 @@ Wordle provides users with a digital version of the Wordle game. Wordle is a pop
 - Reset: Players can reset the game at any time to start a new round with a new random word.
 
 ## Made With
-- React.js
+- React
 
 ## Installation
 ```
